@@ -50,6 +50,8 @@ h1{
 p{
     color: hsl(215, 51%, 70%);
     font-size: 1.2rem;
+    width: auto;
+
 }
 
 .box{
